@@ -8,7 +8,7 @@ Building **scalable enterprise applications** and exploring the intersection of 
 
 ## 👨‍💻 About Me
 
-🎯 **7+ years of software engineering experience** building enterprise-grade applications.
+🎯 **5+ years of software engineering experience** building enterprise-grade applications.
 
 💻 Specialized in **C#, .NET Core, ASP.NET Web API, Microservices, SQL Server and React**.
 
